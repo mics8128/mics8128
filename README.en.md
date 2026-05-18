@@ -10,6 +10,8 @@ Since then, I have worked across software development, business system integrati
 
 Today, I focus on building practical AI agents, internal tools, automation workflows, and business system integrations that help teams reduce repetitive work and move faster.
 
+> Building practical AI systems, automation workflows, and full-stack tools for real business operations.  
+
 ### Focus Areas
 
 - AI Agents & workflow automation
