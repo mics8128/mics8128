@@ -10,6 +10,23 @@ Since then, I have worked across software development, business system integrati
 
 Today, I focus on building practical AI agents, internal tools, automation workflows, and business system integrations that help teams reduce repetitive work and move faster.
 
+### Focus Areas
+
+- AI Agents & workflow automation
+- Full-stack web systems
+- ERP / WMS / business data integration
+- LINE Bot and messaging automation
+- Linux, Docker, DevOps, and self-hosted infrastructure
+- Internal knowledge-base and business AI systems
+
+### Selected Themes
+
+- AI customer-service automation with human handoff
+- Amazon listing optimization workflows
+- Multi-system database and operational integration
+- CMS-driven multilingual websites
+- CLI tools and developer productivity workflows
+
 ---
 
 ## What I Do
