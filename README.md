@@ -7,8 +7,6 @@
 
 ---
 
-## English
-
 I started working on full-stack development and client projects in **2011**, during my sophomore year of college.
 
 Since then, I have worked across software development, business system integration, Linux-based infrastructure, DevOps, automation workflows, and real-world AI applications.
@@ -18,8 +16,6 @@ Today, I focus on building practical AI agents, internal tools, automation workf
 > Building practical AI systems, automation workflows, and full-stack tools for real business operations.  
 
 ---
-
-## 中文
 
 我自 **2011 年大學二年級**起，開始承接全端開發與客戶專案。
 
